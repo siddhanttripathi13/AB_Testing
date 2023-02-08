@@ -103,8 +103,8 @@ pd.DataFrame({"RET1_COUNT": df["retention_1"].value_counts(),
               "RET7_RATIO": df["retention_7"].value_counts() / len(df)})
 
 ```
-* $55\%$ did not play after day 1
-* $81\%$ did not play after day 7
+* $55%$ did not play after day 1
+* $81%$ did not play after day 7
 
 ---
 
